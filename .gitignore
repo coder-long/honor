@@ -12,5 +12,6 @@
 /myApp-react/node_modules
 /myApp-react/build
 /myApp-react/*.zip
+/myApp-react/.git
 
 
