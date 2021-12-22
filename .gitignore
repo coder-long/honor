@@ -8,8 +8,8 @@
 /app/.idea
 /app/node_modules
 
-/myApp-react/.vscode
-/myApp-react/.idea
+
 /myApp-react/node_modules
+/myApp-react/build
 
 
